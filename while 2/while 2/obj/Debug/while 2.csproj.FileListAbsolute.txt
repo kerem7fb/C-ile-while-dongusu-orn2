@@ -1,0 +1,9 @@
+C:\Users\user\Desktop\10-M\while 2\while 2\bin\Debug\while 2.exe.config
+C:\Users\user\Desktop\10-M\while 2\while 2\bin\Debug\while 2.exe
+C:\Users\user\Desktop\10-M\while 2\while 2\bin\Debug\while 2.pdb
+C:\Users\user\Desktop\10-M\while 2\while 2\obj\Debug\while 2.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\10-M\while 2\while 2\obj\Debug\while_2.Form1.resources
+C:\Users\user\Desktop\10-M\while 2\while 2\obj\Debug\while_2.Properties.Resources.resources
+C:\Users\user\Desktop\10-M\while 2\while 2\obj\Debug\while 2.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\10-M\while 2\while 2\obj\Debug\while 2.exe
+C:\Users\user\Desktop\10-M\while 2\while 2\obj\Debug\while 2.pdb
